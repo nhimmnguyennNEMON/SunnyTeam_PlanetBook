@@ -1,6 +1,6 @@
 # SunnyTeam_PlanetBook
-_Design by Nguyen Van Sy
-_Dev & Designer
+- Design by Nguyen Van Sy
+- Dev & Designer
 - 👋 Hi, I’m @nguyenvansy16
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
