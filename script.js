@@ -20,20 +20,3 @@ function scrollUp(){
     if(this.scrollY >= 200) scrollUp.classList.add('show-scroll'); else scrollUp.classList.remove('show-scroll')
 }
 window.addEventListener('scroll', scrollUp)
-
-const sr = ScrollReveal({
-    distance: '60px',
-    duration: 2800,
-    // reset: true,
-})
-
-
-sr.reveal(`.about-content, .blockquote, .home__info,
-           .discover__container,
-           .experience__data, .experience__overlay,
-           .place__card,
-           .sponsor__content,
-           .footer__data, .footer__rights`,{
-    origin: 'top',
-    interval: 100,
-})
